@@ -1,0 +1,8 @@
+# Python Version
+python>=3.8
+
+# Built-in modules used in the project
+json
+re
+datetime
+csv
