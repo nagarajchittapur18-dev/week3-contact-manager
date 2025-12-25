@@ -1,0 +1,23 @@
+# Python Cache / Temporary Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backup files created by the program
+backup_*.json
+
+# Exported CSV files
+contacts.csv
+
+# Editor / IDE system files
+.vscode/
+.idea/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders (if created in future)
+venv/
+env/
